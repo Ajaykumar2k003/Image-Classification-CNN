@@ -6,7 +6,7 @@ Refer to the [report](Report.pdf) and [code](./Code) for the approach and implem
 
 ### Results:
 - Results after training 18,000 images of cats and dogs:
-    - number of epochs = 15
+    - number of epochs = 15 
     - training data / validation data split = 80/20
     - MODEL 
         - CONV 3x3 filter layers with batch norm - **32 x 64 x 96 x 96 x 64**
